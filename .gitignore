@@ -1,2 +1,12 @@
-.env
+# Rust
 target/
+**/*.rs.bk
+
+# dotenv
+.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
